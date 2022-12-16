@@ -6,13 +6,13 @@
 
 - Use the [original v62 installer](https://kimbershy.stackstorage.com/s/alVFBzaqYoetcxH).
 - Put the [custom client](https://kimbershy.stackstorage.com/s/ejcsnLL9y2JcaViG) in the same folder (typically `C:/Nexon/MapleStory`).
-- Set it in [Windows 7 Compatibility mode](https://www.computerhope.com/issues/ch001894.htm).
-- Open CMD set your server IP and port:`E:\Maplestory GMSSetupv62.exe YOUR_SERVER_IP 8484` (The default port is:8484)
-
+- Set it in [Windows 7 Compatibility mode](https://www.computerhope.com/issues/ch001894.htm). 
 
 ## Usage
 
-Join the [Discord chat channel](https://discord.gg/Y6vjm5f) and ask for an account.
+- Open CMD set your server IP and port:`C:\Nexon\MapleStory> GMSSetupv62.exe YOUR_SERVER_IP 8484` (The default port is 8484)
+
+- Use Navicat to connect your server Mysql, add an account or use the default account to sign in game.
 
 ### Commands
 
