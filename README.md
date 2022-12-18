@@ -10,9 +10,11 @@
 
 ## Usage
 
-- Open CMD set your server IP and port:`C:\Nexon\MapleStory> GMSSetupv62.exe YOUR_SERVER_IP 8484` (The default port is 8484)
+- Open CMD set your server IP and port:`C:\Nexon\MapleStory> GMSv62.exe YOUR_SERVER_IP 8484` (The default port is 8484)
 
 - Use Navicat to connect your server Mysql, add an account or use the default account to sign in game.
+
+- Use Dmage.exe to break the damage limit.ps: 1. client name must be 'GMSv62.exe'. 2.client must started.
 
 ### Commands
 
@@ -27,5 +29,4 @@ Lookup item ID clik [here](https://finder.fengyewuyu.com/)
 Forked from [thepack82](https://github.com/thepack82/thepack_82_docker).
 
 Reference Documents:[MapleStory Client/Localhost Archive](https://forum.ragezone.com/f425/maplestory-client-localhost-archive-1101897/).
-
 
