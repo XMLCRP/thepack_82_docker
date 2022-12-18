@@ -30,3 +30,7 @@ Forked from [thepack82](https://github.com/thepack82/thepack_82_docker).
 
 Reference Documents:[MapleStory Client/Localhost Archive](https://forum.ragezone.com/f425/maplestory-client-localhost-archive-1101897/).
 
+## Next version:
+- [ ] fix pet can't be used BUG.
+- [ ] fix Cash Mall disconnected BUG.
+- [ ] fix can't Changing jobs BUG. 
